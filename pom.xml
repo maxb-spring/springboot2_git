@@ -54,7 +54,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.cn.springboot2.Springboot2Application</mainClass>
+                    <mainClass>com.Springboot2Application</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
